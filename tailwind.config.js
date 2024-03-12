@@ -5,8 +5,8 @@ export default {
     extend: {},
     colors: {
       text: "#181818",
-      background: "#f5f5f5",
-      "background-menu": "#FFFFFF",
+      main: "#f5f5f5",
+      menu: "#FFFFFF",
       normal: "#8D8D8D",
       earth: " #F2A837",
       fire: "#F57039",
