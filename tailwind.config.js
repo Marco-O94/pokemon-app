@@ -11,7 +11,9 @@ export default {
       earth: " #F2A837",
       fire: "#F57039",
       wind: "#94C8FD",
+      venom: "#9537C6",
+      mud: "#AF7B2D",
+      beetle: "#B9C33F",
     },
   },
-  plugins: [],
 };
