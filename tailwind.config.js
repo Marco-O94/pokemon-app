@@ -4,9 +4,10 @@ export default {
   theme: {
     extend: {},
     colors: {
-      text: "#181818",
+      black: "#181818",
       main: "#f5f5f5",
       menu: "#FFFFFF",
+      "menu-hover": "#FDEBEF",
       normal: "#8D8D8D",
       earth: " #F2A837",
       fire: "#F57039",
