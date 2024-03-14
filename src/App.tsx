@@ -3,7 +3,7 @@ import MenuLayout from "./components/Layout/MenuLayout";
 import "./index.css";
 function App() {
   return (
-    <div className="h-screen">
+    <div className="h-screen flex flex-col lg:flex-row">
       <MenuLayout />
       <MainLayout />
     </div>

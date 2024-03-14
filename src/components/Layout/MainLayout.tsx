@@ -1,6 +1,6 @@
 const MainLayout = () => {
   return (
-    <div className="h-screen">
+    <div className="h-screen flex-1">
       {/* Topbar layout */}
       <div></div>
       {/* Main content layout */}
